@@ -22,7 +22,7 @@
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12",
     "nuxt-fontawesome": "^0.4.0",
-    "skyway-js": "^4.3.0",
+    "skyway-js": "^4.4.1",
     "stats.js": "^0.17.0",
     "three": "^0.123.0",
     "vue": "^2.6.12",
