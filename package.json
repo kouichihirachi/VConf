@@ -25,7 +25,7 @@
     "skyway-js": "^4.3.0",
     "stats.js": "^0.17.0",
     "three": "^0.123.0",
-    "vue": "^2.6.12",
+    "vue": "^2.6.14",
     "vue-js-modal": "^2.0.0-rc.3"
   },
   "devDependencies": {
