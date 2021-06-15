@@ -20,7 +20,7 @@
     "@types/dotenv": "^8.2.0",
     "clmtrackr": "^1.1.2",
     "core-js": "^3.8.3",
-    "nuxt": "^2.14.12",
+    "nuxt": "^2.15.7",
     "nuxt-fontawesome": "^0.4.0",
     "skyway-js": "^4.3.0",
     "stats.js": "^0.17.0",
