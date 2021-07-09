@@ -1346,10 +1346,10 @@
     mustache "^2.3.0"
     stack-trace "0.0.10"
 
-"@pixiv/three-vrm@^0.6.0":
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/@pixiv/three-vrm/-/three-vrm-0.6.2.tgz#c95ec3414f2f28baa7a88d2392dc332442756527"
-  integrity sha512-Ruqili+q7U3cW6O6GqFW+xvfDHyTm8PckMS4H3vXArY4bRZWbtNk1r83NRjtX49D9ltjZDudiH1nUTBNB4qjhg==
+"@pixiv/three-vrm@^0.6.4":
+  version "0.6.4"
+  resolved "https://registry.yarnpkg.com/@pixiv/three-vrm/-/three-vrm-0.6.4.tgz#3b05f6e11e18a1a9f8c6f30c44371744e10646c8"
+  integrity sha512-j+ZHWN57dCIf83F1fDdXESLDK0lqyJB4Le8q5fCbz2yNf0LMGoZDhRr87JFyssso7Cu3kITKFY2sjj3z8wR0ew==
 
 "@polka/url@^1.0.0-next.9":
   version "1.0.0-next.11"
